@@ -1,19 +1,19 @@
 const PAYERS_FAKE = [
   {
     id: '1',
-    name: 'Сергей',
+    name: 'Arihant',
   },
   {
     id: '2',
-    name: 'Айдана',
+    name: 'Abhijith',
   },
   {
     id: '3',
-    name: 'Марат',
+    name: 'Abhijeet',
   },
   {
     id: '4',
-    name: 'Алихан',
+    name: 'Arya',
   },
 ];
 
