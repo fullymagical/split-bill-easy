@@ -5,6 +5,7 @@ const ruTranslations = {
     // top navigation
     'Choose language:': 'Выберите язык:',
     'Choose currency:': 'Выберите валюту:',
+    'Indian Rupee': 'Индийская рупия',
     'Kazakhstani Tenge': 'Казахстанский Тенге',
     'Russian Ruble': 'Российский Рубль',
     'Belarusian Ruble': 'Белорусский Рубль',

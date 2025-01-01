@@ -5,6 +5,7 @@ const enTranslations = {
     // top navigation
     'Choose language:': 'Choose language:',
     'Choose currency:': 'Choose currency:',
+    'Indian Rupee': 'Indian Rupee',
     'Kazakhstani Tenge': 'Kazakhstani Tenge',
     'Russian Ruble': 'Russian Ruble',
     'Belarusian Ruble': 'Belarusian Ruble',
