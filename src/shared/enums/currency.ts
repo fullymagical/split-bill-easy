@@ -3,5 +3,6 @@ enum Currency {
   RUB = '₽',
   KZT = '₸',
   BYN = 'Br',
+  INR = '₹',
 }
 export { Currency };
