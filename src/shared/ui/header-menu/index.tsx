@@ -52,6 +52,7 @@ const HeaderMenu: FC = () => {
     {
       label: t('Choose currency:'),
       submenu: [
+        { label: t('Indian Rupee'), action: () => handleCurrencyChange(Currency.INR), value: Currency.INR },
         { label: t('Kazakhstani Tenge'), action: () => handleCurrencyChange(Currency.KZT), value: Currency.KZT },
         { label: t('Russian Ruble'), action: () => handleCurrencyChange(Currency.RUB), value: Currency.RUB },
         { label: t('Belarusian Ruble'), action: () => handleCurrencyChange(Currency.BYN), value: Currency.BYN },
