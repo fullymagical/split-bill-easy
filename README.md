@@ -2,7 +2,7 @@
 
 **Introducing "Split Bill Easy"** - the hassle-free way to divide your restaurant bills among friends! Gone are the days of manual calculations and awkward money discussions. With our user-friendly app, you can easily split the tab in just a few taps.
 
-[Link to deploy, click to open](https://yuliyaminsk.github.io/split-bill-easy/)
+[Link to deploy, click to open](https://fullymagical.github.io/split-bill-easy/)
 
 ## Key features of Split Bill Easy:
 
@@ -14,7 +14,7 @@
 
 ## No Downloads, Just Click and Go!
 
-Getting started with **Split Bill Easy** is [as simple as clicking a link](https://yuliyaminsk.github.io/split-bill-easy/). There's no need to download or install anything. Just click on the provided link, and you're ready to split bills effortlessly.
+Getting started with **Split Bill Easy** is [as simple as clicking a link](https://fullymagical.github.io/split-bill-easy/). There's no need to download or install anything. Just click on the provided link, and you're ready to split bills effortlessly.
 
 ## PWA for Enhanced Mobile Experience
 

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yuliyaminsk.github.io/split-bill-easy/",
+  "homepage": "https://fullymagical.github.io/split-bill-easy/",
   "scripts": {
     "dev": "vite",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
