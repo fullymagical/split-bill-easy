@@ -9,7 +9,7 @@ type ProfileState = {
 
 const initialState: ProfileState = {
   language: getBrowserLanguage(),
-  currency: Currency.KZT,
+  currency: Currency.INR,
 };
 
 const profileSlice = createSlice({
